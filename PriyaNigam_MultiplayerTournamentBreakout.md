@@ -14,7 +14,7 @@ My proposed contribution to this project is the creation of the multiplayer func
 ## Background
 URL reference to project: https://github.com/Priya-Nigam/IndividualProjectProposal/tree/master/breakout
 
-To successfully build and run the project, git clone the repository in your Java IDE. Then build the project and run the BreakoutExtra.java configuration. This should load a GUI in which clicking will start the single player version of the game.
+To successfully build and run the project, git clone the repository in your Java IDE. Then build the project and run the Breakout.java configuration. This should load a GUI in which clicking will start the single player version of the game.
 
 ***Building***
 - Works with Intellij IDEA 2020.2.1 Community version on Mac OS. 
@@ -27,4 +27,4 @@ To successfully build and run the project, git clone the repository in your Java
 
 ## Required Resources
 - Group members should have some familiarity with sockets/clients, Java, and GUI. 
-- IntelliJ IDEA use as IDE would be ideal. 
+- IntelliJ IDEA use as the Java IDE would be ideal. 
