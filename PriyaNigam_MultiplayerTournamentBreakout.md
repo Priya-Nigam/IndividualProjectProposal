@@ -19,11 +19,13 @@ To successfully build and run the project, git clone the repository in your Java
 ***Building***
 - Works with Intellij IDEA 2020.2.1 Community version on Mac OS. 
 - Select src, ignore bin. 
-- May give you an error that main class does not exist. 
+- Click on Build Project
+- May give you an error that main class does not exist. Make sure that there is a main with the line "new Breakout().start(args);".
+- If you are having trouble implementing the GUI program, make sure acm.jar is selected as a library by going in project structure >> library. If necessary, you can redownload the acm.jar from this website: https://cs.stanford.edu/people/eroberts/jtf/
 
-**Running**
-- Doesn't contain a main so don't expect it to run that way. 
-- Select Breakout.java, not BreakoutExtra.java!
+**Running** 
+- Select Breakout.java for normal Breakout Game.
+- BreakoutExtra.java can also be used and has additional graphical features. 
 
 ## Required Resources
 - Group members should have some familiarity with sockets/clients, Java, and GUI. 
